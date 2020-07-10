@@ -16,7 +16,7 @@ Maneesh Agrawala's research applies a cognitive understanding of humans to bette
 
 ## About My Project
 
-Project description goes here.
+In recent years, the Visual Question Answering task has drawn a lot of attention as a challenging task on which to judge a model's higher level reasoning ability. However, the vast majority of datasets and models address question answering in images, not videos. Question answering about videos is difficult because they contain so much information. To compesate, previous models have used subtitles from movies, or focused on short clips of video. My project will explore asking questions about longer (30-90 second) videos. We hope to contribute in two main ways. First, we will automatically generate a dataset of compositional questions about video from scene graphs, using a similar approach as GQA (Hudson and Manning, 2019). Compositional questions are composed of several subquestions. For example, "What did the person put down before eating" first requires finding when the person began eating, looking before that time, finding when they put something down, and inquiring what the type of object. The second part of our project will use these subquestions to define the modules of a modular neural network. We hypothesize that modular neural network will be more interpretable and more effective at answering compositional questions than previous models. 
 
 [My Final Report](files/finalreport.pdf)
 
