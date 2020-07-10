@@ -12,7 +12,7 @@ I'm Madeleine, and I'm very excited about researching this summer at Stanford wi
 
 ## About My Mentor
 
-Mentor info goes here.
+Maneesh Agrawala's research applies a cognitive understanding of humans to better design audio and visual media. He is a Forest Baskett Professor in the Computer Science department, and the Director of Stanford's Brown Institute for Media Innovation. You can see more of his research at http://graphics.stanford.edu/~maneesh/.
 
 ## About My Project
 
